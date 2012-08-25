@@ -5,8 +5,8 @@
 push %ebp
                mov %esp, %ebp
             push $4
-              push $53439648
-              push $53439648
+              push $53430960
+              push $53430960
               push $3568560
               mov $1799394564, %eax
               call *%eax
