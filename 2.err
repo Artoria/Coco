@@ -1,0 +1,8 @@
+ VALUE _intern_value(int, VALUE*, VALUE)
+Analyzing compilation unit
+Performing interprocedural optimizations
+ <*free_lang_data> <visibility> <early_local_cleanups> <emutls> <whole-program> <profile_estimate> <cp> <inline> <pure-const> <static-var>Assembling functions:
+ VALUE _intern_value(int, VALUE*, VALUE)
+Execution times (seconds)
+ phase setup             :   0.02 (100%) usr     719 kB (55%) ggc
+ TOTAL                 :   0.02              1309 kB
